@@ -1,0 +1,7 @@
+C:\Users\Ménesi Zoltán\source\repos\dotNetCodes\SI1\dotNetSI1\SortString\SortString\bin\Debug\SortString.exe.config
+C:\Users\Ménesi Zoltán\source\repos\dotNetCodes\SI1\dotNetSI1\SortString\SortString\bin\Debug\SortString.exe
+C:\Users\Ménesi Zoltán\source\repos\dotNetCodes\SI1\dotNetSI1\SortString\SortString\bin\Debug\SortString.pdb
+C:\Users\Ménesi Zoltán\source\repos\dotNetCodes\SI1\dotNetSI1\SortString\SortString\obj\Debug\SortString.csprojAssemblyReference.cache
+C:\Users\Ménesi Zoltán\source\repos\dotNetCodes\SI1\dotNetSI1\SortString\SortString\obj\Debug\SortString.csproj.CoreCompileInputs.cache
+C:\Users\Ménesi Zoltán\source\repos\dotNetCodes\SI1\dotNetSI1\SortString\SortString\obj\Debug\SortString.exe
+C:\Users\Ménesi Zoltán\source\repos\dotNetCodes\SI1\dotNetSI1\SortString\SortString\obj\Debug\SortString.pdb
